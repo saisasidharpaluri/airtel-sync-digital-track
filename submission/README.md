@@ -11,7 +11,15 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-Open the local address printed by Streamlit. No API key, network service, or database is required. The app reads the student data pack from the sibling `6ae1873397bc1_digital/YTL_TrackA_Udyam_Digital_Data` folder.
+Open the local address printed by Streamlit. No API key, network service, or database is required to run the prototype. The app reads the student data pack from the sibling `6ae1873397bc1_digital/YTL_TrackA_Udyam_Digital_Data` folder.
+
+## Demo and submission
+
+- `demo_video.avi` is a 51-second narrated walkthrough of the working app, within the brief's three-minute limit.
+- `CodeRunners_ABVIIITM.pptx` and `CodeRunners_ABVIIITM.pdf` are the editable seven-slide deck and PDF copy.
+- `demo_script.md` contains the exact narration and on-screen sequence. Gnani Timbre voiceover is used; no API key is stored here.
+- `privacy_note.md` / `privacy_note.pdf` document the demo data and privacy limits.
+- `architecture.md` / `architecture.png` show the prototype architecture.
 
 ## Demo limits
 
@@ -33,5 +41,5 @@ The sample records 368 activations among 5,000 leads (7.4%). The churn column is
 - `architecture.md` / `architecture.png`: architecture description and diagram
 - `competitive_sources.md`: official-source notes for the comparison slide
 - `impact_model.md`: transparent pilot sensitivity assumptions
-- `demo_script.md` / `demo_video.webm`: three-minute walkthrough and narrated video (generated local voice)
-- `CodeRunners_ABVIIITM.pptx` / `.pdf`: editable seven-slide deck and PDF submission copy
+- `demo_script.md` / `demo_video.avi`: recorded demo assets
+- `CodeRunners_ABVIIITM.pptx` / `.pdf`: submission deck files
